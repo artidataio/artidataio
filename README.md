@@ -2,7 +2,7 @@
 
 I hope my issues on your open source projects will count as contributions 😁.
 
-- 🔭 I’m currently working freelance on a web application.
+- 🔭 I’m currently working on a web application.
 - 🌱 I’m currently learning on to get things done with the least amount of effort.
 - 👯 I’m looking to collaborate on non e-commerce websites.
 - 🤔 I’m looking for help with managing expectation of product managers with no coding experience.
