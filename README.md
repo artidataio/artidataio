@@ -8,4 +8,4 @@ I hope my issues on your open source projects will count as contributions 😁.
 - 🤔 I’m looking for help with managing expectation of product managers.
 - 📫 How to reach me? [Email](mailto:imaduddin.htm@gmail.com), [LinkedIn](https://www.linkedin.com/in/imaduddin-haetami/).
 - 💬 Ask me about the number of request on building e-commerce websites.
-- ⚡ Fun fact: R is a real programming language.
+- ⚡ Fun fact: R is better than Python for data science problems.
